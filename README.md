@@ -1,2 +1,3 @@
-# NAME:
-# STUDENT ID:
+# NAME: พาขวัญ บุญยัง
+# STUDENT ID: 670610772
+
